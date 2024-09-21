@@ -1,1 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prelim - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+            text-align: center;
+        }
+        h1 {
+            font-size: 36px;
+            margin-top: 10px;
+        }
+        h2 {
+            font-size: 24px;
+            padding-bottom: 5px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section p {
+            margin: 5px 0;
+        }
+        .contact-info {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .contact-info div {
+            margin: 5px 0;
+        }
+        .skills ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .skills ul li {
+            background-color: #dcdddd;
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 5px;
+            border-radius: 5px;
+
+        width: 95%;
+
+        }
+        img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            display: block;
+            margin: 0 auto 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+                <!-- My image -->
+                <img src="PIC/DelaRosa,Ravinal.png" alt="Ravinal Dela Rosa">
+    
+        <h1>Ravinal Dela Rosa</h1>
+        
+        <div class="contact-info">
+            <div>
+                <Address>Concepcion, Baliwag, Bulacan</Address>
+                <p>202110582@btech.ph.education</p>
+                <p>Phone: (63) 9477323559</p>
+                
+            </div>
+
+        </div>
+
+        <!-- Objectives -->
+        <div class="section">
+            <h2>Objectives</h2>
+            <p>Hardworking, self-motivated Communication and BSIT College student 
+                seeking a position where I will be able to use my communication, marketing
+                and leadership skills to achieve the company’s set goals.
+                </p>
+        </div>
+
+        <!-- Personal Info -->
+        <div class="section personal-info">
+            <h2>Personal Information</h2>
+            <ul>
+                <p>Date of Birth: November 18, 2002<p>
+                <p>Place of Birth: Baliwag, Bulacan<p>
+                <p>Birthday: November 18, 2002<p>
+                <p>Age: 21 yrs. Old</p>
+                <p>Religion: Catholic<p>
+                <p>Civil Status: Single</p>
+                <p>Citizenship: Filipino</p>
+
+            </ul>
+        </div>
+
+        <!-- Education -->
+        <div class="section education">
+            <h2>Education</h2>
+            <div class="education-item">
+                <h3>Bachelor of Science in Information Technology</h3>
+                <p>Dalubhasaang Politekniko ng Lungsod ng Baliwag - Present</p>
+            </div>
+            <div class="education-item">
+                <h3>Senior High School - TVL ICT</h3>
+                <p>Dalubhasaang Politekniko ng Lungsod ng Baliwag - 2021</p>
+            </div>
+            <div class="education-item">
+                <h3>High School</h3>
+                <p>Mariano Ponce National High School - 2019</p>
+            </div>
+            <div class="education-item">
+                <h3>Elementary School</h3>
+                <p>Concepcion Elementary School - 2015</p>
+            </div>
+        </div>
+
+        <!-- Skills  -->
+        <div class="section skills">
+            <h2>Skills</h2>
+            <ul>
+                <li> •	Capable of editing pictures, files, and presentation
+                    using different application.</li>
+                <li> •  Playing Mobile Legends (ML) & Call of Duty (Codm)</li>
+                <li> •	Active listening</li>
+                <li> •	Open-mindedness</li>
+                <li> •	Proficient in Editing</li>
+            </ul>
+        </div>
+
+        <!-- Awards and Achievments -->
+        <div class="section Awards and Achievments">
+            <h2>Awards and Achievments</h2>
+            <div class="Awards and Achievments">
+                <h3>•	Grade 12- With Honors</h3>
+                <h3>•	Grade 11- With Honors</h3>
+                <h3>•	Grade 10 - Good Conduct</h3>
+                <h3>•	2nd Runner up Mobile Legends
+                    School Competition
+                    </h3>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
 
